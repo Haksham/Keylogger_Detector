@@ -1,0 +1,14 @@
+Rtings.com
+
+
+Multi Key Latency:  test that measures how long it takes for a key press and key release to be registered by your computer with the expected connection type
+
+Single Key Latency :  test that measures how long it takes for a single key to register on your computer with all supported connection types
+
+keyboard performance?
+
+Pre-travel is the distance it takes for a key to travel before it actuates the switch on your keyboard
+
+Hall Effect switches : for higher budget, Hall measurements use DC magnetic fields
+
+complex code are there which take high processing and cpu usage etc where our program is simple low level and efficient which reduces time complexcity
