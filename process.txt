@@ -1,0 +1,8 @@
+make python file
+1. need to install pyinstaller
+	pip install pyinstaler
+2. 	pyinstaller --onefile --fileanme.py
+ this is with console
+3.	pyinstaller --onefile --noconsole filename.py
+ this is without console
+4. esc key to exit
